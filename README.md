@@ -1,4 +1,4 @@
-# 🎯 Hover-Reveal
+# 🖼️ Hover Reveal
 
 A sleek and responsive effect that reveals an image smoothly beneath a card on hover. Built with pure HTML and CSS, no frameworks or JavaScript needed. Perfect for enhancing user interaction on portfolios, landing pages, and UI elements.
 
